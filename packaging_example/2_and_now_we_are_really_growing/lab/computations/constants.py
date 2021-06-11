@@ -1,0 +1,4 @@
+# Constants
+PI = 3.14159
+AVOGADRO = 6.0221409e23
+EULER = 2.718281
